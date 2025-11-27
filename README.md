@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Kadam</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<img align="right" alt ="Codign" width= "400" src ="[[https://assets-v2.lottiefiles.com/a/23ff6cb2-1185-11ee-b4a0-a7f3e9131231/0QqeiL8pP7.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Fjava&psig=AOvVaw2cGy-1h1EfLFRZ0Uc5rJ_8&ust=1764351101644000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjc_6DukpEDFQAAAAAdAAAAABAs)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-kadamm&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-kadamm" /> </p>
 
